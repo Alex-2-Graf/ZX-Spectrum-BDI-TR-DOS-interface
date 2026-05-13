@@ -23,11 +23,27 @@
 [Схема](Export/ZX%20BDI%202%20PCB%20Lower.pdf) [Монтаж](Export/ZX%20BDI%202%20PCB%20Lower.html) [Gerber](Gerber/ZX_BDI_2_PCB_Lower_Gerbers.zip)
   
   
-![](Foto/ZX%20BDI%202%20PCB%20Lower.png)
+![](Foto/ZX%20BDI%202%20PCB%20Lower.png)  
   
 ![](Foto/ZX%20BDI%202%20PCB%20Lower.jpg)  
-
   
+    
+### Верхняя плата  
+  
+[Схема](Export/ZX%20BDI%202%20PCB%20Upper.pdf) [Монтаж](Export/ZX%20BDI%202%20PCB%20Upper.html) [Gerber](Gerber/ZX_BDI_2_PCB_Upper_Gerbers.zip)
+  
+  
+![](Foto/ZX%20BDI%202%20PCB%20Upper.png)  
+  
+![](Foto/ZX%20BDI%202%20PCB%20Upper.jpg)  
+  
+  
+### В сборе  
+  
+![](Foto/ZX%20BDI%202%20PCB.jpg)  
+  
+  
+
 2. **Compact Single (Одноплатная версия)**
    * Современная, плотная компоновка всех элементов на одной печатной плате.
    * Минимальные габариты — устройство аккуратно и компактно смотрится при подключении к краевому разъему (Edge connector) Спектрума.
