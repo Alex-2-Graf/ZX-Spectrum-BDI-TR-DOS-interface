@@ -20,7 +20,7 @@
 
 ### Нижняя плата  
   
-[Схема](Export/[ZX%20BDI%202%20PCB%20Lower.pdf).pdf) [Монтаж](ZX%20BDI%202%20PCB%20Lower.html) [Gerber](Gerber/ZX_BDI_2_PCB_Lower_Gerbers.zip)
+[Схема](Export/ZX%20BDI%202%20PCB%20Lower.pdf) [Монтаж](Export/ZX%20BDI%202%20PCB%20Lower.html) [Gerber](Gerber/ZX_BDI_2_PCB_Lower_Gerbers.zip)
   
   
 ![](Foto/ZX%20BDI%202%20PCB%20Lower.png)
