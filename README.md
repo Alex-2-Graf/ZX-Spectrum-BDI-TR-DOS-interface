@@ -20,12 +20,12 @@
 
 ### Нижняя плата  
   
-[Схема](Export/ZX BDI 2 PCB Lower.pdf) [Монтаж](ZX BDI 2 PCB Lower.html) [Gerber](Gerber/ZX_BDI_2_PCB_Lower_Gerbers.zip)
+[Схема](Export/[ZX%20BDI%202%20PCB%20Lower.pdf).pdf) [Монтаж](ZX%20BDI%202%20PCB%20Lower.html) [Gerber](Gerber/ZX_BDI_2_PCB_Lower_Gerbers.zip)
   
   
-![](Foto/ZX BDI 2 PCB Lower.png)
+![](Foto/ZX%20BDI%202%20PCB%20Lower.png)
   
-![](Foto/ZX BDI 2 PCB Lower.jpg)  
+![](Foto/ZX%20BDI%202%20PCB%20Lower.jpg)  
 
   
 2. **Compact Single (Одноплатная версия)**
